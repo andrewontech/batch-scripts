@@ -1,0 +1,1 @@
+"C:\Program Files\SquareEnix\FINAL FANTASY XV BENCHMARK\ffxv.exe" --graphicsIni config\GraphicsConfig_BenchmarkHigh.ini -f --displayResolution 2560 1080 --renderingResolution 2560 1080 --locale=en
