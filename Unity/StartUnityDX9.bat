@@ -1,0 +1,1 @@
+start "" "C:\Program Files\Unity\Editor\Unity.exe" -force-d3d9
